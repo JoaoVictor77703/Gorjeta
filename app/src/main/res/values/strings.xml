@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Gorjeta</string>
+    <array name="avalia">
+        <item>Ecelente -> 10%</item>
+        <item>Otimo -> 8%</item>
+        <item>Bom -> 5%</item>
+        <item>Ruim -> 2%</item>
+    </array>
+</resources>
