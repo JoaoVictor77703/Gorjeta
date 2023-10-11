@@ -49,7 +49,7 @@
 
 
         <Spinner
-            android:id="@+id/spinnerTeamAffiliation"
+            android:id="@+id/spinneravalia"
             android:layout_width="match_parent"
             android:layout_height="50dp"
             android:layout_marginTop="8dp"
@@ -57,7 +57,7 @@
             android:entries="@array/avalia"/>
 
         <Button
-            android:id="@+id/buttonAddUpdate"
+            android:id="@+id/buttoncaucula"
             style="@style/Widget.Material3.Button.IconButton.Filled.Tonal"
             android:backgroundTint="#040404"
             android:layout_width="match_parent"
