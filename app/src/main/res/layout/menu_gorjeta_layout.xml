@@ -57,7 +57,7 @@
             android:entries="@array/avalia"/>
 
         <Button
-            android:id="@+id/buttoncaucula"
+            android:id="@+id/btncaucula"
             style="@style/Widget.Material3.Button.IconButton.Filled.Tonal"
             android:backgroundTint="#040404"
             android:layout_width="match_parent"
@@ -79,7 +79,7 @@
 
         <EditText
             android:layout_margin="10dp"
-            android:id="@+id/gorjeta"
+            android:id="@+id/gorjeta1"
             android:layout_width="150dp"
             android:layout_height="50dp"
             android:hint="Gorjeta :" />
