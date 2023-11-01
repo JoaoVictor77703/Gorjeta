@@ -32,7 +32,7 @@
             android:textColor="#111"
             android:layout_margin="20dp"
             android:drawableLeft="@drawable/money"
-            android:drawableRight="@drawable/money"/>
+            android:drawableRight="@drawable/money" />
 
         <View
             android:layout_width="400dp"
@@ -62,9 +62,9 @@
             android:backgroundTint="#040404"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Caucular Gorgeta"
+            android:text="Caucular"
             android:textColor="#fff"
-            android:layout_marginTop="20dp"/>
+            android:layout_margin="20dp"/>
 
         <View
             android:layout_width="400dp"
